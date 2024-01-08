@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Modern Talking"},
+  "SongTitle": {"S": "Lucky Guy"},
+  "AlbumTitle": {"S": "The 1st Album"},
+  "SongYear": {"S": "1985"}
+}

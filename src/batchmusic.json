@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Modern Talking"},
+                  "SongTitle": {"S": "Cheri Cheri Lady"},
+                  "AlbumTitle": {"S": "Let's Talk About Love"},
+                  "SongYear": {"S": "1985"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Modern Talking"},
+                  "SongTitle": {"S": "You're My Heart, You're My Soul"},
+                  "AlbumTitle": {"S": "The 1st Album"},
+                  "SongYear": {"S": "1985"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Modern Talking"},
+                  "SongTitle": {"S": "Brother Louie"},
+                  "AlbumTitle": {"S": "Ready for Romance"},
+                  "SongYear": {"S": "1986"}
+                }
+            }
+        }
+      ]
+}
